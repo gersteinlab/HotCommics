@@ -1,5 +1,5 @@
 
-HotSpot Communitiex in Cancers
+<b> HotSpot Communities in Cancers
 
 This integrated workflow identifies mutational hotspot communities on protein structure to predict cancer drivers.
 
