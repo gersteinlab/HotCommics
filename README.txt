@@ -1,5 +1,4 @@
-# H1
-HotSpot Communities in Cancers
+# HotSpot Communities in Cancers
 
 This integrated workflow identifies mutational hotspot communities on protein structure to predict cancer drivers.
 
