@@ -11,4 +11,4 @@ This workflow has three main steps :
 3) Identification of hotspot communities on protein structure
 
 
-Reource Datasets folder consists of hotspot communities identified by running HotCommics workflow on TCGA Pan-Cancer atlas project
+<b> Reource Datasets folder consists of hotspot communities identified by running HotCommics workflow on TCGA Pan-Cancer atlas project </b>
